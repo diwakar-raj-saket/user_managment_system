@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
         mt: 'auto',
         width: '100%',
         display: 'flex',
-        justifyContent: 'center',
+        justifyContent: 'center ',
         alignItems: 'center',
       }}
     >
